@@ -34,7 +34,7 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: #000000;
+  color: #2600ff;
 }
 
 /* main container area beneath menu */
@@ -75,19 +75,19 @@ h3 {
 }
 
 #portfolio li {
-  background: #ffffff;
+  background: #ffee00;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: #ff0000;
 }
 
 #portfolio a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
 }
 /* responsive web design */
 @media screen and (min-width: 120px) and (max-width: 1080px) {
