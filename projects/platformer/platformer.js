@@ -60,15 +60,31 @@ $(function () {
 
     
     // TODO 2
-  
+    createCollectable("handsoap",1300,200,0,0)
+    createCollectable("handsoap",50,400,0,0)
 
 
 
 
     // TODO 3
-    createCannon("right", 780, -1000)
-    createCannon("left", 663, -1000)
-    createCannon("bottom",200,1000)
+    createCannon("right", 790, -1000)
+    createCannon("left", 673, -1000)
+    createCannon("bottom",100,1500)
+    createCannon("bottom",300,2000)
+    createCannon("bottom",500,1500)
+    createCannon("bottom",700,2000)
+    createCannon("bottom",900,1500)
+    createCannon("bottom,",1100,2000)
+    createCannon("bottom",1150,2000)
+    createCannon("right",150,30000)
+    createCannon("right",250,30000)
+    createCannon("right",350,30000)
+    createCannon("right",450,30000)
+    createCannon("right",550,30000)
+    createCannon("right",650,30000)
+    createCannon("right",750,30000)
+    createCannon("right",850,30000)
+    createCannon("right",950,30000)
     
 
 
