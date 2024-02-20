@@ -41,20 +41,21 @@ $(function () {
 
     // TODO 1
     createPlatform(0,150,100,20)
-    createPlatform(50,450,30,20)
+    createPlatform(50,500,30,20)
     createPlatform(150,300,30,20)
-    createPlatform(250,450,30,20)
+    createPlatform(250,500,30,20)
     createPlatform(350,300,30,20)
-    createPlatform(450,450,30,20)
+    createPlatform(450,500,30,20)
     createPlatform(550,300,30,20)
-    createPlatform(650,450,30,20)
+    createPlatform(650,500,30,20)
     createPlatform(750,300,30,20)
-    createPlatform(850,450,30,20)
+    createPlatform(850,500,30,20)
     createPlatform(950,300,30,20)
-    createPlatform(1050,450,30,20)
+    createPlatform(1050,500,30,20)
     createPlatform(1150,300,30,20)
-    createPlatform(1250,450,30,20)
+    createPlatform(1250,500,30,20)
     createPlatform(1300,300,100,20)
+    createPlatform(1300,650,30,20)
 
 
 
@@ -62,6 +63,7 @@ $(function () {
     // TODO 2
     createCollectable("handsoap",1300,200,0,0)
     createCollectable("handsoap",50,400,0,0)
+    createCollectable("handsoap",1300,600,0,0)
 
 
 
